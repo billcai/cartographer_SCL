@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /root/catkin_cartographer/devel_isolated/cartographer_ros/setup.sh

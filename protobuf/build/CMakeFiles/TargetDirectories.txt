@@ -1,0 +1,10 @@
+/root/catkin_cartographer/protobuf/build/CMakeFiles/install.dir
+/root/catkin_cartographer/protobuf/build/CMakeFiles/list_install_components.dir
+/root/catkin_cartographer/protobuf/build/CMakeFiles/rebuild_cache.dir
+/root/catkin_cartographer/protobuf/build/CMakeFiles/install/local.dir
+/root/catkin_cartographer/protobuf/build/CMakeFiles/install/strip.dir
+/root/catkin_cartographer/protobuf/build/CMakeFiles/edit_cache.dir
+/root/catkin_cartographer/protobuf/build/CMakeFiles/libprotobuf-lite.dir
+/root/catkin_cartographer/protobuf/build/CMakeFiles/libprotoc.dir
+/root/catkin_cartographer/protobuf/build/CMakeFiles/libprotobuf.dir
+/root/catkin_cartographer/protobuf/build/CMakeFiles/protoc.dir
